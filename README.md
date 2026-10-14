@@ -1,3 +1,3 @@
-# B14-Score_Prediction_Application
+# Score_Prediction_Application
 
 Live Link--
